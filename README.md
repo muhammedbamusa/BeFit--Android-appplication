@@ -23,7 +23,20 @@ BeFit is an intuitive and user-friendly Android application designed to help use
 ## Screenshots
 
 ### Home Screen
-![BeFit Home Screen](https://github.com/yourusername/befit-app/screenshots/home.png)
+![Screenshot_20241216-012607_BeFit](https://github.com/user-attachments/assets/05cc8855-61d6-4c01-af7d-b3dc971e5749)
+### Workout Tracker
+
+![Screenshot_20241216-012643_BeFit](https://github.com/user-attachments/assets/b1829649-1763-4282-ba63-fbb07027e3dd)
+### Workput logs
+
+![Screenshot_20241216-012743_BeFit](https://github.com/user-attachments/assets/d42ad3b7-ed7f-426d-9e80-38e74adf6f0a)
+### BMI calculator
+
+![Screenshot_20241216-012812_BeFit](https://github.com/user-attachments/assets/2d5f125d-74dd-42b6-97ad-ab29a700911a)
+
+
+
+
 *Your Personal Fitness Companion - intuitive and minimalistic design.*
 
 ---
@@ -85,7 +98,7 @@ Contributions are always welcome! Please follow these steps:
 ## Contact
 
 If you have any questions or feedback, feel free to reach out:
-- **Email:** your.email@example.com
+- **Email:** mohammedbamusa4459@gmail.com
 - **GitHub:** @muhammedbamusa (or) (https://github.com/muhammedbamusa).
 - **Instagram:** @_mohammed_bamuasa_(https://www.instagram.com/mohammed_bamusa?igsh=NmRjYmV0OGQwdzFz&utm_source=qr)
 
