@@ -1,0 +1,65 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:background="#F5F5F5">
+
+    <!-- Input field for workout name -->
+    <EditText
+        android:id="@+id/workoutNameInput"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Workout Name"
+        android:inputType="text"
+        android:padding="10dp"
+        android:layout_marginBottom="10dp" />
+
+    <!-- Input field for sets -->
+    <EditText
+        android:id="@+id/setsInput"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter Sets"
+        android:inputType="number"
+        android:padding="10dp"
+        android:layout_marginBottom="10dp" />
+
+    <!-- Input field for reps -->
+    <EditText
+        android:id="@+id/repsInput"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter Reps"
+        android:inputType="number"
+        android:padding="10dp"
+        android:layout_marginBottom="10dp" />
+
+    <!-- Input field for weight -->
+    <EditText
+        android:id="@+id/weightInput"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter Weight (kg)"
+        android:inputType="numberDecimal"
+        android:padding="10dp"
+        android:layout_marginBottom="10dp" />
+
+    <!-- Date Picker for workout date -->
+    <Button
+        android:id="@+id/selectDateButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Select Date"
+        android:layout_marginBottom="10dp" />
+
+    <!-- Button to save workout -->
+    <Button
+        android:id="@+id/saveWorkoutButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Save Workout"
+        android:backgroundTint="#4CAF50"
+        android:textColor="#FFFFFF" />
+
+</LinearLayout>

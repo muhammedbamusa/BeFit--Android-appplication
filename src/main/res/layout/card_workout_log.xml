@@ -1,0 +1,31 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:layout_marginBottom="10dp">
+
+    <!-- Exercise Name -->
+    <TextView
+        android:id="@+id/tv_exercise_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Exercise Name"
+        android:textSize="18sp"
+        android:textStyle="bold"/>
+
+    <!-- Set Container (where individual sets will be added) -->
+    <LinearLayout
+        android:id="@+id/set_container"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"/>
+
+    <!-- Button to add more sets -->
+    <Button
+        android:id="@+id/btn_add_set"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Add Set"
+        android:layout_marginTop="8dp"/>
+</LinearLayout>
